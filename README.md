@@ -1,4 +1,4 @@
-### Hi there 👋
+Приветствую на первом практическом занятии
 
 <!--
 **Tatianabeg/Tatianabeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
